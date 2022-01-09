@@ -1,0 +1,60 @@
+* {
+    font-family: 'Josefin Sans',
+        sans-serif;
+}
+
+.days {
+    width: 40%;
+    padding: 10px 0;
+    background: #eee;
+}
+
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 12px;
+    background: #1abc9c;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.mainSelect select {
+    margin: 2% 2%;
+    border: none;
+    border-radius: 10%;
+    width: 250px;
+    font-size: 25px;
+    background: AliceBlue;
+
+}
+
+.mainSelect button {
+    border: none;
+    font-size: 25px;
+    background: LightCyan;
+    border-radius: 10%;
+}
+
+.mainSelect button:hover {
+    background: LightBlue;
+    cursor: pointer;
+}
+
+.margin4_3 {
+    margin: 4% 3%;
+}
+
+.margin3_5 {
+    margin: 3% 5%;
+}
+
+.font_size_25 {
+    font-size: 25px;
+}
